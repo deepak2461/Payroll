@@ -1,0 +1,7 @@
+Line1 -- This is generated from branch22 to reproduce merge conflicts
+Line2
+Hai from branch22
+
+
+
+
